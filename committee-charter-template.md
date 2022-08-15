@@ -26,7 +26,7 @@ __Example:__
   - overall leadership of the committee and advancing its aims and objectives
   - organising and charing the committee meetings (e.g. preparing meeting agendas and details and distributing them to other committee members ahead of meetings) 
   - keeping the committee documentation up to date 
-  - producing reports to The Carpentries Executive Council
+  - producing periodic reports to The Carpentries Executive Council
 - Co-chair, responsible for: 
   - alternating the duties of organising and charing the committee meetings with the chair
   - stepping in for the chair and helping with other tasks when the chair is not available
