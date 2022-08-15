@@ -4,7 +4,7 @@
 
 
 Approval date: <br />
-Status: [active|completed] <br />
+Status: [active|not active] <br />
 Completion date: (planned completion date, updated to the actual completion date when the task force ends)
 
 ### Description
