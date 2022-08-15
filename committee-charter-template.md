@@ -51,7 +51,7 @@ Name of the Core Team liaison person for the committee.
 
 ### Members
 
-List of the past and current members of the committee, with their roles (if available).
+List of the past and current members of the committee, along with their roles.
 
 __Example:__
 
