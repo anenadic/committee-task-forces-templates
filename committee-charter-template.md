@@ -65,12 +65,12 @@ List of the past and current members of the committee, along with their roles.
 
 _Example:_
 
-_Current members_
+_Current members:_
 
 - _Kelly Barnes, chair_
 - _Sher! Hurt, co-chair_
 - _Angelique Trusler, member_
 
-_Past members_
+_Past members:_
 - _John Smith, member_
  
