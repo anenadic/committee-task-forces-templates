@@ -1,12 +1,12 @@
 ## Committee Charter: [Name of the Committee]
 
-(This is a committee charter template which can modified to suit your committee needs.)
+(This is a committee charter template which can modified to suit your committee's needs.)
 
 Approval date: <br />
 Status: [active|not active] <br />
 
-### Context
-A problem statement (i.e. 3-5 sentence explanation of the committee). 
+### Description
+A short description of what the committee does (i.e. the problem statement).
 
 __Example:__  
 In the last year, incidents surrounding The Carpentries Code of Conduct (CoC) highlighted issues with enforcing the CoC and adjudicating reported CoC violations. As a result, and due to Software and Data Carpentry having merged to form The Carpentries, there have been updates to governance and policy documents, including updates to the Code of Conduct. Additionally, the Executive Council has expressed concern with the lack of timeliness as it relates to resolving CoC incident reports. The CoC Committee serves to respond and resolve CoC incident reports, and update documentation. Though work has been completed to update our Code of Conduct, the CoC committee lacks the expertise to update the reporting guidelines and enforcement manual.
