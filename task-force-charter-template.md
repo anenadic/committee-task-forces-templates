@@ -49,4 +49,4 @@ __Example:__
 - Kelly Barnes, chair
 - Sher! Hurt, co-chair
 - Angelique Trusler, member
-- John Smith, 
+- John Smith, past member
