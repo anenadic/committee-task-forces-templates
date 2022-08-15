@@ -1,5 +1,7 @@
 ## Task Force Charter: [Name of Task Force]
 
+(This is a task force template which can be used as a basis for your task force charter and modified to suit your needs. )
+
 Approval date: <br />
 Status: [active|completed] <br />
 Completion date: (planned completion date, updated to the actual completion date when the task force ends)
