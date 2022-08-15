@@ -14,7 +14,7 @@ __Example:__
 In the last year, incidents surrounding The Carpentries Code of Conduct (CoC) highlighted issues with enforcing the CoC and adjudicating reported CoC violations. As a result, and due to Software and Data Carpentry having merged to form The Carpentries, there have been updates to governance and policy documents, including updates to the Code of Conduct. Additionally, the Executive Council has expressed concern with the lack of timeliness as it relates to resolving CoC incident reports. The CoC Committee serves to respond and resolve CoC incident reports, and update documentation. Though work has been completed to update our Code of Conduct, the CoC committee lacks the expertise to update the reporting guidelines and enforcement manual.
 
 ### Objectives
-The overall objective(s) of the task force. 
+The overall objective(s) of the task force, i.e. that the task force aims to achieve. 
 
 __Example:__  
 The objective of this task force is to update our Reporting Guidelines and Enforcement Manual and Guidelines and processes. We want all members of our community to understand the process, for reporters to feel safe and supported in reporting an incident and in the community, to ensure a confidential process, and for people under review to have access to a fair and unbiased review. We want to be able to handle Code of Conduct reports respectfully, in a timely manner and with appropriate communication and transparency in accordance with our Code of Conduct. 
