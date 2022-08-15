@@ -6,16 +6,19 @@ Approval date: <br />
 Status: [active|not active] <br />
 
 ### Description
-A short description of what the committee does (i.e. the problem statement).
+A short description of what the committee does (i.e. the problem statement or scope).
 
 __Example:__  
-
+The committee is established to develop and maintain a mentorship program to support instructors as they progress through training, teaching, curriculum development, and other community-related activities. We help promote community-building and networking by providing (virtual) spaces where instructors from all over the world can share teaching success stories and discuss strategies for overcoming challenges. In August 2018, the group was renamed to the Instructor Development Committee to reflect the wider focus of its activity and to avoid confusion with the Mentoring Groups Program.
 
 ### Objectives
-The overall objective(s) of the committee, i.e. that the committee aims to achieve. 
+The overall objective(s) or purpose of the committee, i.e. that the committee aims to achieve. 
 
 __Example:__  
+The committee helps organise and run:
 
+- Instructor discussion sessions which provide a forum where experienced and novice instructors can discuss past and/or upcoming workshops. Instructors who have just taught, are about to teach, or have just completed instructor training will receive an email invitation to these meetings, but these sessions are open to anyone.
+- Mentoring groups to support instructors by matching them with a personal mentor. Mentors will guide small groups (~4-5) of mentees, guiding them through specific goals including preparing to teach a workshop, maintaining lessons, building local communities, and organizing workshops.
 
 ### Roles and Responsibilities
 
