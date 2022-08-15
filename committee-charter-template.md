@@ -5,13 +5,13 @@
 Approval date: <br />
 Status: [active|not active] <br />
 
-### Description
+### Description/Problem Statement
 A short description of what the committee does (i.e. the problem statement or scope).
 
 _Example:_  
 _The committee is established to develop and maintain a mentorship program to support instructors as they progress through training, teaching, curriculum development, and other community-related activities. We help promote community-building and networking by providing (virtual) spaces where instructors from all over the world can share teaching success stories and discuss strategies for overcoming challenges. In August 2018, the group was renamed to the Instructor Development Committee to reflect the wider focus of its activity and to avoid confusion with the Mentoring Groups Program._
 
-### Objectives
+### Objectives/Purpose
 The overall objective(s) or purpose of the committee, i.e. that the committee aims to achieve. 
 
 _Example:_
