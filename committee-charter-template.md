@@ -35,6 +35,12 @@ __Example:__
 - Member, responsible for:
   - Attending the committee meetings, participating in discussions and decisions of the committee, and contributing to the tasks
  
+### Operatonal Procedures
+
+  - Process for recruiting and/or selecting new members
+  - Process for on-boarding new members
+  - Process for off-boarding members
+  - A succession plan for chair/co-chair
 
 ### Members
 
