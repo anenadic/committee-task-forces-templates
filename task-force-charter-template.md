@@ -7,13 +7,13 @@ Approval date: <br />
 Status: [active|not active] <br />
 Completion date: (planned completion date, updated to the actual completion date when the task force ends)
 
-### Description
+### Description/Problem Statement
 A short description of what the task force does (i.e. the problem statement or scope).
 
 _Example:_  
 _Members of the Carpentries community contribute to lessons in a variety of ways, from creating them to maintaining repositories. However, there are not well-defined processes for recognizing the diversity of these contributions in official lesson publications or even when lessons should be officially published. Recognition serves to motivate contributors, highlight the work being done within the community, and provide opportunities for professional development for community members. Finally, the skills and responsibilities required for roles in lesson publication may be understood within the Carpentries but not to people outside the community (such as hiring committees)._
 
-### Objectives
+### Objectives/Purpose
 The overall objective(s) or purpose of the task force, i.e. that the task force aims to achieve. 
 
 _Example:_  
