@@ -26,11 +26,27 @@ __Examples:__
 
 ### Roles and Responsibilities
 
+Description of all the roles within the taskforce, along with their responsibilities (i.e. the tasks and duties of a particular role).
+
+__Example:__
+- Chair, responsible for:
+  - leading the task force
+  - organising and charing the task force meetings (preparing meeting agendas and details and distributing them to other committee members ahead of meetings) 
+  - keeping the task force documentation up to date 
+  - producing the final report
+- Co-chair, responsible for: 
+  - alternating the duties of organising and charing the task force meetings with the chair
+  - stepping in for the chair for other tasks when the chair is not available
+- Member, responsible for:
+  - Attending the task force meetings, participating in discussions and decisions of the task force, and contributing to the tasks
+ 
+
 ### Members
 
 List of the past and current members of the task force, with their roles (if available).
 
-__Examples:__
+__Example:__
 - Kelly Barnes, chair
 - Sher! Hurt, co-chair
 - Angelique Trusler, member
+- John Smith, 
