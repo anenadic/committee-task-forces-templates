@@ -6,7 +6,7 @@ Approval date: <br />
 Status: [active|not active] <br />
 
 ### Description
-A short description of what the task force does (i.e. the problem statement).
+A short description of what the committee does (i.e. the problem statement).
 
 __Example:__  
 
