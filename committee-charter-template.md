@@ -50,8 +50,10 @@ Outlines for the following operational procedures:
 
 ### Meetings
 
+Details of committee meetings, how to join (if open to public) and past meeting notes (if not private).
+
 __Example:__
-- The committee meets on the third Monday of every month. All community members are welcome to attend these meetings.
+- The committee meets on the third Monday of every month and all community members are welcome to attend these meetings.
 - Minutes of past meetings are available here. 
 - To attend our next meeting, visit this etherpad.
 
