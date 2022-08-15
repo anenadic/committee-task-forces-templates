@@ -52,11 +52,16 @@ _Example:_
  
 ### Operational Procedures
 
-Outlines for the following operational procedures:
-
   - Process for recruiting and/or selecting new members
   - Decision making process
-  
+
+### Meetings
+Details of task force meetings, how to join (if open to public) and past meeting notes (if not private).
+
+_Example:_
+
+_The task force meeting times are determined by polling the task force member's availabilities and are not open to general public. Minutes of past meetings are available here._
+
 ### Core Team Liasion
 
 Name of the Core Team liaison person for the task force.
