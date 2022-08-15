@@ -43,6 +43,14 @@ __Example:__
 - Member, responsible for:
   - Attending the task force meetings, participating in discussions and decisions of the task force, and contributing to the tasks
  
+### Operational Procedures
+
+  - Process for recruiting and/or selecting new members
+  - Decision making process
+  
+### Core Team Liasion
+
+Name of the Core Team liaison person for the task force.
 
 ### Members
 
