@@ -46,7 +46,12 @@ __Example:__
 List of the past and current members of the task force, with their roles (if available).
 
 __Example:__
+
+Current members
+
 - Kelly Barnes, chair
 - Sher! Hurt, co-chair
 - Angelique Trusler, member
-- John Smith, past member
+
+Past members
+- John Smith, member
