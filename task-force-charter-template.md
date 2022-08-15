@@ -17,7 +17,7 @@ __Example:__
 The objective of this task force is to update our Reporting Guidelines and Enforcement Manual and Guidelines and processes. We want all members of our community to understand the process, for reporters to feel safe and supported in reporting an incident and in the community, to ensure a confidential process, and for people under review to have access to a fair and unbiased review. We want to be able to handle Code of Conduct reports respectfully, in a timely manner and with appropriate communication and transparency in accordance with our Code of Conduct. 
 
 ### Deliverables
-Description of the planned deliverables, e.g. documents or other outputs from the work. These deliverables should be linked to from this charter upon the project completion and the completion date updated. 
+Description of the planned deliverables, e.g. documents or other outputs from the work. These deliverables should be linked to from this charter upon the project completion and the completion date of the task force should also be updated. 
 
 __Examples:__ 
 1. Revised enforcement manual and reporting guidelines in The Carpentries Handbook including update log.   
