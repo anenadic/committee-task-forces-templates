@@ -7,8 +7,8 @@ Approval date: <br />
 Status: [active|completed] <br />
 Completion date: (planned completion date, updated to the actual completion date when the task force ends)
 
-### Context
-A problem statement (i.e. 3-5 sentence explanation of the task force). 
+### Description
+A short description of what the task force does (i.e. the problem statement).
 
 __Example:__  
 In the last year, incidents surrounding The Carpentries Code of Conduct (CoC) highlighted issues with enforcing the CoC and adjudicating reported CoC violations. As a result, and due to Software and Data Carpentry having merged to form The Carpentries, there have been updates to governance and policy documents, including updates to the Code of Conduct. Additionally, the Executive Council has expressed concern with the lack of timeliness as it relates to resolving CoC incident reports. The CoC Committee serves to respond and resolve CoC incident reports, and update documentation. Though work has been completed to update our Code of Conduct, the CoC committee lacks the expertise to update the reporting guidelines and enforcement manual.
