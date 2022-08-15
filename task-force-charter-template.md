@@ -45,7 +45,7 @@ __Example:__
  
 ### Operational Procedures
 
-Consider providing outlines for the following procedures:
+Outlines for the following operational procedures:
 
   - Process for recruiting and/or selecting new members
   - Decision making process
