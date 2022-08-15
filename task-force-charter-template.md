@@ -36,7 +36,7 @@ __Example:__
   - producing the final report
 - Co-chair, responsible for: 
   - alternating the duties of organising and charing the task force meetings with the chair
-  - stepping in for the chair for other tasks when the chair is not available
+  - stepping in for the chair and helping with other tasks when the chair is not available
 - Member, responsible for:
   - Attending the task force meetings, participating in discussions and decisions of the task force, and contributing to the tasks
  
