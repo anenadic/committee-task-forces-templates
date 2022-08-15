@@ -24,7 +24,11 @@ __Examples:__
 2. Blog post summary of task force meetings/discussions with release of enforcement manual and reporting guidelines.   
 3. Incident response checklist to be added to The Carpentries Handbook along with revised enforcement manual and reporting guidelines.    
 
-### Task Force Roles and Responsibilities
+### Roles and Responsibilities
+
+### Members
+
+List of the past and current members of the task force, with their roles (if available).
 
 __Examples:__
 - Kelly Barnes, chair
