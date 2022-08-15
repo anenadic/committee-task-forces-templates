@@ -40,8 +40,6 @@ _Example:_
 
 ### Operational Procedures
 
-Outlines for the following operational procedures:
-
   - Process for recruiting and/or selecting new members
   - Process for on-boarding new members
   - Process for off-boarding members
