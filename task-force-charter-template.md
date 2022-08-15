@@ -24,13 +24,13 @@ Description of the planned deliverables, e.g. documents or other outputs from th
 
 __Examples:__ 
 1. A document describing:
-  - Types of contributions that deserve lesson authorship or other acknowledgement
-  - A minimum threshold of contribution that constitutes authorship, including the recency of contributions
-  - A method for determining authorship order in official lesson publications
+    - Types of contributions that deserve lesson authorship or other acknowledgement
+    - A minimum threshold of contribution that constitutes authorship, including the recency of contributions
+    - A method for determining authorship order in official lesson publications
 2. A document describing:
-  - A type of schedule for lesson publications (regularly timed or milestone-based)
-  - Methods for determining lesson publication schedules,
-  - Whose responsibility it is to track progress and initiate publication
+    - A type of schedule for lesson publications (regularly timed or milestone-based)
+    - Methods for determining lesson publication schedules,
+    - Whose responsibility it is to track progress and initiate publication
 3. A blog post describing the conclusions reached by the task force
 4. A document describing a communications plan for informing relevant community members (maintainers, contributors, lesson developers, CAC members) about the lesson publication plan.  
 
