@@ -30,8 +30,8 @@ Description of all the roles within the taskforce, along with their responsibili
 
 __Example:__
 - Chair, responsible for:
-  - leading the task force
-  - organising and charing the task force meetings (preparing meeting agendas and details and distributing them to other committee members ahead of meetings) 
+  - overall leadership of the task force and advancing its aims and objectives
+  - organising and charing the task force meetings (e.g. preparing meeting agendas and details and distributing them to other committee members ahead of meetings) 
   - keeping the task force documentation up to date 
   - producing the final report
 - Co-chair, responsible for: 
