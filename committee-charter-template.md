@@ -43,7 +43,7 @@ _Example:_
   - Process for recruiting and/or selecting new members
   - Process for on-boarding new members
   - Process for off-boarding members
-  - A succession plan for chair/co-chair
+  - Succession plan for chair/co-chair
   - Decision making process
 
 ### Meetings
