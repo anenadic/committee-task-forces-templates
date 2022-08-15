@@ -22,7 +22,7 @@ The objective of this task force is to develop guidelines for recognition of con
 ### Deliverables
 Description of the planned deliverables, e.g. documents or other outputs from the work. These deliverables should be linked to from this charter upon the project completion and the completion date of the task force should also be updated. 
 
-__Examples:__ 
+__Example:__ 
 1. A document describing:
     - Types of contributions that deserve lesson authorship or other acknowledgement
     - A minimum threshold of contribution that constitutes authorship, including the recency of contributions
