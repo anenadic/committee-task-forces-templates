@@ -26,7 +26,7 @@ __Examples:__
 
 ### Roles and Responsibilities
 
-Description of all the roles within the taskforce, along with their responsibilities (i.e. the tasks and duties of a particular role).
+Description of all the roles within the task force, along with their responsibilities (i.e. the tasks and duties of a particular role).
 
 __Example:__
 - Chair, responsible for:
