@@ -11,21 +11,28 @@ Completion date: (planned completion date, updated to the actual completion date
 A short description of what the task force does (i.e. the problem statement).
 
 __Example:__  
-In the last year, incidents surrounding The Carpentries Code of Conduct (CoC) highlighted issues with enforcing the CoC and adjudicating reported CoC violations. As a result, and due to Software and Data Carpentry having merged to form The Carpentries, there have been updates to governance and policy documents, including updates to the Code of Conduct. Additionally, the Executive Council has expressed concern with the lack of timeliness as it relates to resolving CoC incident reports. The CoC Committee serves to respond and resolve CoC incident reports, and update documentation. Though work has been completed to update our Code of Conduct, the CoC committee lacks the expertise to update the reporting guidelines and enforcement manual.
+Members of the Carpentries community contribute to lessons in a variety of ways, from creating them to maintaining repositories. However, there are not well-defined processes for recognizing the diversity of these contributions in official lesson publications or even when lessons should be officially published. Recognition serves to motivate contributors, highlight the work being done within the community, and provide opportunities for professional development for community members. Finally, the skills and responsibilities required for roles in lesson publication may be understood within the Carpentries but not to people outside the community (such as hiring committees).
 
 ### Objectives
 The overall objective(s) of the task force, i.e. that the task force aims to achieve. 
 
 __Example:__  
-The objective of this task force is to update our Reporting Guidelines and Enforcement Manual and Guidelines and processes. We want all members of our community to understand the process, for reporters to feel safe and supported in reporting an incident and in the community, to ensure a confidential process, and for people under review to have access to a fair and unbiased review. We want to be able to handle Code of Conduct reports respectfully, in a timely manner and with appropriate communication and transparency in accordance with our Code of Conduct. 
+The objective of this task force is to develop guidelines for recognition of contributions to Carpentries lessons in official lesson publications, as well as a process for regular lesson publications. These guidelines will include methodological approaches (e.g. how to quantify contributions, assign authorship on published lessons, and determine when a lesson is ready for a new publication) and technical approaches (e.g. how to collect and store data on various modes of contribution). Community input on these goals will come in the form of an initial survey and the recruitment of Task Force members.
 
 ### Deliverables
 Description of the planned deliverables, e.g. documents or other outputs from the work. These deliverables should be linked to from this charter upon the project completion and the completion date of the task force should also be updated. 
 
 __Examples:__ 
-1. Revised enforcement manual and reporting guidelines in The Carpentries Handbook including update log.   
-2. Blog post summary of task force meetings/discussions with release of enforcement manual and reporting guidelines.   
-3. Incident response checklist to be added to The Carpentries Handbook along with revised enforcement manual and reporting guidelines.    
+1. A document describing:
+  - Types of contributions that deserve lesson authorship or other acknowledgement
+  - A minimum threshold of contribution that constitutes authorship, including the recency of contributions
+  - A method for determining authorship order in official lesson publications
+2. A document describing:
+  - A type of schedule for lesson publications (regularly timed or milestone-based)
+  - Methods for determining lesson publication schedules,
+  - Whose responsibility it is to track progress and initiate publication
+3. A blog post describing the conclusions reached by the task force
+4. A document describing a communications plan for informing relevant community members (maintainers, contributors, lesson developers, CAC members) about the lesson publication plan.  
 
 ### Roles and Responsibilities
 
