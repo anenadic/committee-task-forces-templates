@@ -48,6 +48,13 @@ Outlines for the following operational procedures:
   - A succession plan for chair/co-chair
   - Decision making process
 
+### Meetings
+
+__Example:__
+- The committee meets on the third Monday of every month. All community members are welcome to attend these meetings.
+- Minutes of past meetings are available here. 
+- To attend our next meeting, visit this etherpad.
+
 ### Core Team Liasion
 
 Name of the Core Team liaison person for the committee.
