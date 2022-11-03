@@ -53,7 +53,7 @@ Details of committee meetings, how to join (if open to public) and past meeting 
 _Example:_
 - _The committee meets on the third Monday of every month and all community members are welcome to attend these meetings._
 - _Minutes of past meetings are available at [link]._ 
-- _To attend our next meeting, visit this Etherpad page._
+- _To attend our next meeting, visit this [Etherpad page]._
 
 ### Core Team Liasion
 
