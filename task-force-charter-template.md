@@ -44,7 +44,7 @@ _Example:_
   - _organising and charing the task force meetings (e.g. preparing meeting agendas and details and distributing them to other committee members ahead of meetings)_ 
   - _keeping the task force documentation up to date_ 
   - _producing the final report_
-- _Co-chair, responsible for: 
+- _Co-chair, responsible for:_ 
   - _alternating the duties of organising and charing the task force meetings with the chair_
   - _stepping in for the chair and helping with other tasks when the chair is not available_
 - _Member, responsible for:_
@@ -70,7 +70,7 @@ Name of the Core Team liaison person for the task force.
 
 List of the past and current members of the task force, along with their roles.
 
-_Example:__
+_Example:_
 
 _Current members:_
 
