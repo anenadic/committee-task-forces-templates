@@ -1,7 +1,6 @@
 ## Task Force Charter: [Name of Task Force]
 
-(This is a task force charter template which can modified to suit your task force's needs.)
-
+(This is a task force charter template which you should copy and modify to suit your committee's needs.)
 
 Approval date: <br />
 Status: [active|not active] <br />
