@@ -60,7 +60,7 @@ Details of task force meetings, how to join (if open to public) and past meeting
 
 _Example:_
 
-_The task force meeting times are determined by polling the task force member's availabilities and are not open to general public. Minutes of past meetings are available here._
+_The task force meeting times are determined by polling the task force member's availabilities and are not open to general public. Minutes of past meetings are available at [link]._
 
 ### Core Team Liasion
 
