@@ -1,6 +1,6 @@
 ## Committee Charter: [Name of the Committee]
 
-(This is a committee charter template which can modified to suit your committee's needs.)
+(This is a committee charter template which you should copy and modify to suit your committee's needs.)
 
 Approval date: <br />
 Status: [active|not active] <br />
